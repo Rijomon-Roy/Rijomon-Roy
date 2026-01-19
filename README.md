@@ -4,9 +4,7 @@
 MERN Stack Developer • MCA Student • Full-Stack Web Developer
 </h3>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/0?v=4" width="180" />
-</p>
+
 
 <p align="center">
   Passionate about building modern, scalable, and user-friendly web applications.<br/>
@@ -102,20 +100,6 @@ Big Data Fundamentals • Cloud Computing Basics • Vercel Deployment
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rijomon-Roy&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rijomon-Roy&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
