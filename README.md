@@ -1,52 +1,58 @@
-<h1 align="center">Hi 👋, I'm Rijomon Roy</h1>
-<h3 align="center">🚀 MERN Stack Developer | Building Tailoring & E-Commerce Solutions</h3>
+👋 Hi, I'm RIJO ROY
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding Gif">
-</p>
+🌐 Connect with Me
 
----
+📌 Featured Projects
 
-### 🧑‍💻 About Me:
+🔹 Project One – Short description (Tech stack)
 
-- 🔭 Currently working on: **Tailoring Booking Web App**
-- 🛍️ Also building: **Women’s Fashion E-Commerce Platform**
-- 🌱 Currently learning: **React | Node.js | MongoDB | REST APIs**
-- 💬 Ask me about: **MERN Stack, Web Development**
-- 📫 Reach me at: **rijoroykallattu@gmail.com**
-- 🌐 Portfolio: [portfolio-rijo.netlify.app](https://portfolio-rijo.netlify.app)
+🔹 Project Two – Short description (Tech stack)
 
----
+🔹 Project Three – Short description (Tech stack)
 
-### 🛠️ Tech Stack & Tools:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,bootstrap,figma" alt="Skills" />
-</p>
+🛠️ Skills & Tools
 
----
+💻 Programming Languages
 
 
 
-### 🚀 My Projects:
-- 🎯 **Tailoring Booking Web App** – Custom booking system for tailoring services
-- 🛍️ **Women’s Fashion E-Commerce** – Shopping platform with dynamic product management
-- 🎥 **Movie Recommendation App** *(In Progress)* – AI-based movie suggestions using JavaScript and APIs
 
----
 
-### 📫 Connect with Me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/rijoroy-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:rijoroykallattu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/Rijomon-Roy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
 
----
 
-<p align="center">💻 Code. Learn. Build. Repeat. 💻</p>
+⚙️ Frameworks & Libraries
+
+
+
+
+
+
+
+🗄️ Databases
+
+PostgreSQL • MySQL • MongoDB • SQLite
+
+☁️ Cloud & Tools
+
+Linux • Git • GitHub • Vercel
+
+📜 Certifications
+
+Python for Data Science – IIT Madras
+
+Machine Learning with Python – IBM
+
+AWS Certified Developer – Associate
+
+📊 GitHub Stats
+
+🏆 GitHub Trophies
+
+✨ Quote of the Day
+
+"Think logically, build intelligently, and code passionately."
+
+🙌 Thanks for Visiting!
+
+I’m always open to collaborating on AI, ML, and Full‑Stack projects.
+
