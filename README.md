@@ -1,15 +1,6 @@
 <p align="center">
-  <img src="git.jpeg" width="180" style="border-radius:50%;" />
+  <img src="git.jpng" alt="Rijomon Roy Banner" />
 </p>
-
-
-<h1 align="center">Hi 👋, I'm Rijo Roy</h1>
-
-<h3 align="center">
-MERN Stack Developer • MCA Student • Full-Stack Web Developer
-</h3>
-
-
 
 <p align="center">
   Passionate about building modern, scalable, and user-friendly web applications.<br/>
@@ -19,6 +10,7 @@ MERN Stack Developer • MCA Student • Full-Stack Web Developer
 ---
 
 ## 🎓 Academic Status
+
 <p align="center">
 🎓 MCA Student <br/>
 💡 Strong programming & problem-solving fundamentals
