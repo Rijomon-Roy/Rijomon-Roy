@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="git.jpeg" width="180" style="border-radius:50%;" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Rijo Roy</h1>
 
 <h3 align="center">
