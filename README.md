@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="git.jpng" alt="Rijomon Roy Banner" />
+  <img src="git.jpeg" alt="Rijomon Roy Banner" />
 </p>
 
 <p align="center">
