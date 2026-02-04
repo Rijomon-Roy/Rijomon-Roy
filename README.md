@@ -2,6 +2,8 @@
   <img src="git.jpeg" alt="Rijomon Roy Banner" />
 </p>
 
+<h2 align="center">Hi 👋 I'm Rijomon Roy</h2>
+
 <p align="center">
   Passionate about building modern, scalable, and user-friendly web applications.<br/>
   Strong foundation in programming logic, data structures, and full-stack development 🚀
@@ -44,9 +46,9 @@
 
 ---
 
-## 🛠️ Skills & Knowledge
+# 🛠️ Skills & Knowledge
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java"/>
@@ -56,17 +58,69 @@
 
 ---
 
-### 🧠 Programming Fundamentals
+## 🧠 Programming Fundamentals
 <p align="center">
 ✔ Logic Building <br/>
-✔ Data Structures (Basics) <br/>
+✔ Data Structures (Arrays, Stack, Queue, Linked List) <br/>
 ✔ Algorithms (Searching & Sorting) <br/>
 ✔ Problem Solving using C, Java & Python
 </p>
 
 ---
 
-### ⚙️ MERN Stack
+# ⏱️ Time & Space Complexity
+
+## 📈 Time Complexity
+<p align="center">
+✔ Big-O Notation <br/>
+✔ O(1) – Constant Time <br/>
+✔ O(log n) – Binary Search <br/>
+✔ O(n) – Linear Traversal <br/>
+✔ O(n log n) – Merge Sort / Quick Sort <br/>
+✔ O(n²) – Bubble / Selection Sort <br/>
+✔ Loop & Recursion Complexity Analysis
+</p>
+
+---
+
+## 🧮 Space Complexity
+<p align="center">
+✔ Auxiliary Space <br/>
+✔ In-place Algorithms <br/>
+✔ Memory Optimization Techniques <br/>
+✔ Stack vs Heap Understanding <br/>
+✔ Recursive Call Stack Analysis
+</p>
+
+---
+
+## 🚀 Core Algorithms Knowledge
+<p align="center">
+✔ Linear Search & Binary Search <br/>
+✔ Bubble, Selection, Insertion Sort <br/>
+✔ Merge Sort & Quick Sort <br/>
+✔ Recursion & Backtracking Basics <br/>
+✔ Two Pointer Technique <br/>
+✔ Sliding Window <br/>
+✔ Hashing (Map / Set) <br/>
+✔ Greedy Approach Basics <br/>
+✔ Problem Solving Patterns
+</p>
+
+---
+
+## 🧩 Algorithms & Complexity Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Big--O-Analysis-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Searching-Algorithms-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sorting-Algorithms-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Time-Complexity-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Space-Complexity-purple?style=for-the-badge"/>
+</p>
+
+---
+
+# ⚙️ MERN Stack
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
@@ -76,21 +130,21 @@
 
 ---
 
-## 🗄️ Databases & SQL
+# 🗄️ Databases & SQL
 <p align="center">
 MongoDB • MySQL • PostgreSQL • SQLite
 </p>
 
 ---
 
-## ☁️ Big Data & Cloud (Basics)
+# ☁️ Big Data & Cloud (Basics)
 <p align="center">
 Big Data Fundamentals • Cloud Computing Basics • Vercel Deployment
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rijomon-Roy&show_icons=true&theme=tokyonight"/>
 </p>
