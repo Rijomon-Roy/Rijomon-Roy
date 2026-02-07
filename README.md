@@ -49,36 +49,33 @@ React • REST API • MongoDB
 > Movie search using API integration & modern UI  
 React • API • Tailwind
 
----
-
 # 🛠️ Tech Stack
 
 ## 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,java,python,js" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,js" />
 </p>
 
 ## 🌐 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
 </p>
 
 ## ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ## 🗄️ Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
 ## 🔧 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
 </p>
 
----
 
 # 🧠 Core Strengths
 
