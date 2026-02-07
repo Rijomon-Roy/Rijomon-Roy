@@ -89,19 +89,7 @@ React • API • Tailwind
 ✅ Problem Solving  
 ✅ Performance Optimization  
 
----
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rijomon-Roy&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rijomon-Roy&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # ✨ About Me
 
