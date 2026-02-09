@@ -91,14 +91,6 @@ Movie search with API
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rijomon-Roy&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rijomon-Roy&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # 🧠 Strengths
 
