@@ -1,23 +1,28 @@
-<!-- ================= HERO BANNER ================= -->
+<!-- ================= HERO ================= -->
+
 <p align="center">
-  <img src="git.jpeg" alt="Rijomon Roy Banner" width="100%" />
+  <img src="git.jpeg" width="100%" />
 </p>
 
-<h1 align="center">
-  Hey there 👋 I'm <span style="color:#00BFFF;">Rijomon Roy</span>
-</h1>
-
-<h3 align="center">
-  🚀 MERN Stack Developer | Full-Stack Enthusiast | Problem Solver
-</h3>
+<h1 align="center">Hi 👋 I'm Rijomon Roy</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Apps;Clean+UI+%2B+Strong+Logic;MERN+Stack+Developer;Always+Learning+Something+New" />
+  <b>MERN Stack Developer • Full-Stack Builder • Problem Solver</b>
 </p>
 
 <p align="center">
-  I craft <b>scalable</b>, <b>modern</b> & <b>user-friendly</b> web apps <br/>
-  Passionate about clean UI, strong logic & real-world products 💡
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Clean+UI+%2B+Strong+Logic;React+%7C+Node+%7C+MongoDB;Always+Learning+New+Things+🚀" />
+</p>
+
+---
+
+<!-- ================= BADGES ================= -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-NodeJS-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-darkgreen?style=for-the-badge" />
 </p>
 
 ---
@@ -26,13 +31,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rijoroy-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="https://github.com/Rijomon-Roy">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
   <a href="mailto:rijoroykallattu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
 
@@ -40,55 +45,48 @@
 
 # 🚀 Featured Projects
 
-## 💸 WiseSpend – Smart Expense Tracker
-✨ MERN finance dashboard with analytics, charts & AI insights  
-**React • Node • Express • MongoDB**
+<table align="center">
+<tr>
+<td width="50%">
 
----
+### 💸 WiseSpend  
+Finance tracker with analytics & charts  
+**React • Node • MongoDB**
 
-## 🎟️ Event Booking Application
-✨ Ticket booking + authentication + admin dashboard  
-**Node • Express • MongoDB • EJS**
+</td>
+<td width="50%">
 
----
+### 🎟️ Event Booking  
+Authentication + ticket system  
+**Node • Express • EJS**
 
-## 🛒 E-Commerce Web App
-✨ Cart • Orders • Payments • REST APIs  
-**React • MongoDB • Backend APIs**
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
 
-## 🎬 Movie Finder App
-✨ Real-time movie search with API integration  
-**React • Tailwind • TMDB API**
+### 🛒 E-Commerce App  
+Cart • Orders • Payments  
+**MERN Stack**
+
+</td>
+<td width="50%">
+
+### 🎬 Movie Finder  
+Movie search with API  
+**React • Tailwind**
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,js" />
-</p>
-
-## 🌐 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
-</p>
-
-## ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-## 🗄️ Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
-
-## 🔧 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,react,html,css,tailwind,nodejs,express,mongodb,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -97,27 +95,37 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rijomon-Roy&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rijomon-Roy&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rijomon-Roy&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🧠 Core Strengths
+# 🧠 Strengths
 
-✔️ Data Structures & Algorithms  
-✔️ REST API Development  
-✔️ Full-Stack MERN Applications  
-✔️ Clean UI/UX Design  
-✔️ Performance Optimization  
-✔️ Problem Solving Mindset  
+<p align="center">
+
+✨ DSA  
+✨ REST APIs  
+✨ Full-Stack MERN  
+✨ Clean UI/UX  
+✨ Performance Optimization  
+
+</p>
 
 ---
 
 # ✨ About Me
 
-```yaml
-Name: Rijomon Roy
-Role: MERN Stack Developer
-Education: MCA Student
-Focus: Full-Stack + DSA + Real Projects
-Goal: Build scalable production-ready apps
+<p align="center">
+
+🎓 MCA Student  
+💻 Passionate Developer  
+🚀 Building real-world apps daily  
+📈 Always improving  
+
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+<p align="center">Open to internships • freelance • full-stack opportunities</p>
