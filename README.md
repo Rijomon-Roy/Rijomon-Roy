@@ -83,7 +83,9 @@ Movie search with API
 
 ---
 
-# 🛠️ Tech Stack
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,js,react,html,css,tailwind,nodejs,express,mongodb,mysql,git,github,vscode" />
@@ -91,33 +93,33 @@ Movie search with API
 
 ---
 
-
-# 🧠 Strengths
+<h2 align="center">🧠 Strengths</h2>
 
 <p align="center">
-
-✨ DSA  
-✨ REST APIs  
-✨ Full-Stack MERN  
-✨ Clean UI/UX  
-✨ Performance Optimization  
-
+✨ DSA <br>
+✨ REST APIs <br>
+✨ Full-Stack MERN <br>
+✨ Clean UI/UX <br>
+✨ Performance Optimization
 </p>
 
 ---
 
-# ✨ About Me
+<h2 align="center">✨ About Me</h2>
 
 <p align="center">
-
-🎓 MCA Student  
-💻 Passionate Developer  
-🚀 Building real-world apps daily  
-📈 Always improving  
-
+🎓 MCA Student <br>
+💻 Passionate Developer <br>
+🚀 Building real-world apps daily <br>
+📈 Always improving
 </p>
 
 ---
 
 <h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
-<p align="center">Open to internships • freelance • full-stack opportunities</p>
+
+<p align="center">
+Open to internships • freelance • full-stack opportunities
+</p>
+
+
